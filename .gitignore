@@ -1,0 +1,14 @@
+# OS / cruft
+.DS_Store
+~$*
+
+# Editor / preview config
+.claude/
+
+# Old Perplexity/Vite build (generated, not source)
+assets/
+index.html
+
+# Source documents kept local (not published)
+*.pptx
+*.xlsx
