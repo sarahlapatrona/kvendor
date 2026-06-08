@@ -7,7 +7,7 @@
 
 # Old Perplexity/Vite build (generated, not source)
 assets/
-index.html
+legacy-perplexity-build.html
 
 # Source documents kept local (not published)
 *.pptx
